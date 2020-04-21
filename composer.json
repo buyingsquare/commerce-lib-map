@@ -1,5 +1,5 @@
 {
-	"name": "aimeos/map",
+	"name": "buyingsquare/map",
 	"description": "Easy and elegant handling of PHP arrays as array-like map objects similar to jQuery and Laravel Collections",
 	"license": "MIT",
 	"keywords": ["php", "array", "map", "collection"],
